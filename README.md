@@ -1,6 +1,7 @@
 # Ansible Project
 
-![Project.drawio.png](project.drawio.png)
+![image](https://github.com/tahawin1/Ansible/assets/156256367/43bcd55d-9f50-4e7c-a045-8cbe7b8c5a0b)
+
 
 
 
